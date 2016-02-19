@@ -15,7 +15,10 @@ I have also written a ship API wrapper thatyou can find here: [ship][2]
 
 To start a web server for the application, run:
 
-    lein run
+    TOKEN="SHIP_TOKEN" lein run
+
+## Contributing
+Pull Requests welcome (UI/UX especially so, as I'm pretty poor at it).
 
 ## License
 
