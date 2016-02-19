@@ -1,6 +1,6 @@
-(defproject kanban "0.1.0-SNAPSHOT"
+(defproject kanban "0.1.0"
 
-  :description "FIXME: write description"
+  :description "WebServer interfacing with the Ship Issue Tracker"
   :url "http://example.com/FIXME"
 
   :dependencies [[luminus/config "0.5"]
